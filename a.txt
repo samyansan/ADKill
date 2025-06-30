@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Title: Allow
+! Homepage: https://github.com/DoingDog/XXKiller
+! License: https://github.com/DoingDog/XXKiller/blob/mae/LICENSE
+! Expires: 25 hours (update frequency)
+! Description: Just a merged Adblock rule. Nothing more.
+! Merge source: https://github.com/DoingDog/XXKiller/blob/mae/RMaker/allow/rule-list.ini
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! Version: 202507010232
+! Last modified: 2025/07/01 2:32 (北京时间)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+@@||api.installer.xiaomi.com^$important
+@@||app.chat.xiaomi.net^$important
+@@||local^
+@@||localhost^
